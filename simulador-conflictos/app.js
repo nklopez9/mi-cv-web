@@ -1,0 +1,1 @@
+let colorTema = "Gris Oscuro";
