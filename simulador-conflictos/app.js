@@ -1,1 +1,1 @@
-let colorTema = "Azul Oceano";
+let colorTema = "Rojo Pasión";
